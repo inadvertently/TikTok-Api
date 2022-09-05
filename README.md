@@ -18,7 +18,7 @@ for video in fyp_videos:
     tiktok.video.download_video(video["video_url"])
 ```
 
-DL video
+### DL video
 ```py
 from TTApi import TikTokApi
 
