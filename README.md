@@ -5,7 +5,7 @@ TikTok Api wrapper without authentication
 # This is not finished, i will be updating this repo regularly
 
 
-###FYP
+### FYP
 ```py
 from TTApi import TikTokApi
 
